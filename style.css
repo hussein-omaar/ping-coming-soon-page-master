@@ -17,7 +17,7 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        /* background-color: saddlebrown; */
+      
     }
     
     .container .top .logo img {
@@ -31,8 +31,7 @@
         flex-direction: column;
         align-items: center;
         gap: 2rem;
-        /* margin-bottom: 4rem; */
-        /* background-color: royalblue; */
+        
     }
     
     .container .top .title h1 {
@@ -74,7 +73,7 @@
         text-align: center;
         width: 683px;
         height: 40%;
-        /* background-color: red; */
+       
     }
     
     .container .bottom img {
@@ -82,29 +81,27 @@
     }
     
     .social-icons {
-        /* margin-top: 2rem; */
+    
         text-align: center;
         max-width: 100vw;
         height: 50px;
-        /* background-color: saddlebrown; */
+       
     }
     
     .social-icons .fa-brands {
-        /* color: hsl(223, 87%, 63%); */
         padding: 5px;
     }
     
     .social-icons .fa-brands:hover {
         border-radius: 15px;
         background-color: hsl(223, 87%, 63%);
-        /* padding: 2px; */
+       
     }
     
     .social-icons a .fa-twitter {
         margin-left: 10px;
         margin-right: 10px;
         font-size: 16px;
-        /* color: #ffff; */
     }
     
     .social-icons a .fa-facebook,
@@ -138,7 +135,7 @@
         }
         .container .top {
             width: 100vw;
-            /* height: 60%; */
+           
         }
         .container .bottom {
             width: 100vw;
